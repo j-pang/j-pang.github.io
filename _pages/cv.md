@@ -12,39 +12,44 @@ redirect_from:
 Education
 ======
 * B.S. Mathematical Sciences, Nanyang Technological University, 2013
-  * First Class Honors 
+  * First Class Honors, Accelerated Bachelors Program 
+  * ASTAR Chairman's List 2012/2013
+  * ASTAR Undergraduate Scholarship
 * Ph.D Computing and Mathematical Sciences, California Institute of Technology, 2019
+  * Thesis: Online Platforms in Networked Markets: Transparency, Anticipation and Demand Management
+  * Amori Outstanding Dissertation Prize 
+  * National Science Scholarship 
 
 Work experience
 ======
 * 2019 - Present: Data Scientist
   * Software Technology and Innovation Center
-  * Presented to...
+  * Proof-of-concept machine learning and data science projects
   * Supervisor: Dr Jose Celaya
 
 * Fall 2018 - Spring 2019: Teaching Fellow
   * California Institute of Technology
-  * Guided TAs
+  * Mentored First-time TAs 
   * Supervisor: Dr Cassandra Horii
 
-* Summer 2018: Research Assistant
-  * Github University
-  * RL environment 
+* Summer 2018: Data Science Intern
+  * Software Technology and Innovation Center
+  * Designed RL environment on OpenAI Gym and validated various RL algorithms for O&G domain
   * Supervisor: Dr Jose Celaya
 
-* Summer 2017: Research Assistant
-  * Github University
-  * Time-series 
+* Summer 2017: Data Science Intern
+  * Software Technology and Innovation Center
+  * Time-series classification using machine learning and signal processing
   * Supervisor: Dr Jose Celaya
 
 * 2014: Research Engineer
   * Institute of High Performance Computing
-  * Car-following 
+  * Developed and analyzed Car-following model 
   * Supervisor: Dr Christopher Monterola
 
 * Summer 2012: Research Intern
   * Institute of Infocomm Research
-  * Oversampling
+  * Designed new Oversampling method for multi-modal time-series data
   * Supervisor: Professor Vincent Tan
 
   
@@ -52,9 +57,6 @@ Skills
 ======
 * Skill 1
 * Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
 * Skill 3
 
 Publications
@@ -77,4 +79,19 @@ Teaching
   
 Service and leadership
 ======
-* President, Bridges@Caltech
+* Reviewer 
+  * ACM Transactions on Modeling and Performance Evaluation of Computing Systems (TOMPECS)
+  * Elsevier Physica A
+  * IEEE American Control Conference (ACC)
+  * IEEE Conference for Decision and Control (CDC)
+  * IEEE Conference on Industrial Electronics and Applications (ICIEA)
+  * IEEE Transactions on Intelligent Transportation Systems (T-ITS)
+  * IEEE Transactions of Networking (ToN)
+  * IET Cyber Physical Systems (CPS)
+  * T&F Applied Economics Letters (AEL)
+  * T&F Emerging Markets, Finance & Trade (EMFT)
+* President, Bridges@Caltech, 2016-2017
+* Secretary, Bridges@Caltech, 2015-2016
+* Judge/Organizer, National Science Challenge, 2014
+* Research Mentor, Victoria School, 2013-2014
+* Executive Committee Member, Christian Fellowship, 2011-2012
