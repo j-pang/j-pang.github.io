@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "John Pang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  bio              : "Educator and Researcher"
+  location         : "Menlo Park, California"
+  employer         : "Schlumberger"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.ca/citations?hl=en&view_op=list_works&authuser=1&gmla=AJsN-F7ozkcp2z7TMriS7KoHvl7q6Eq1RHshAd-UfJMJz67a0JqjNUjPf3XRgu6TmlnZ1o8uUR7lv0VXrTRdZrLPhK-TgHtQFW7_1J2BUGQyxV2oH16_DSc&user=mQZqPVAAAAAJ"
+  email            : "johnpzf@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,10 +96,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "j-pang"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "faithlikesight"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "johnpangzf"
   vine             :
   weibo            :
   xing             :
