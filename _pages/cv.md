@@ -11,14 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. Mathematical Sciences, Nanyang Technological University, 2013
-  * First Class Honors, Accelerated Bachelors Program 
-  * ASTAR Chairman's List 2012/2013
-  * ASTAR Undergraduate Scholarship
 * Ph.D Computing and Mathematical Sciences, California Institute of Technology, 2019
   * Thesis: Online Platforms in Networked Markets: Transparency, Anticipation and Demand Management
   * Amori Outstanding Dissertation Prize 
   * National Science Scholarship 
+  
+* B.S. Mathematical Sciences, Nanyang Technological University, 2013
+  * First Class Honors
+  * ASTAR Chairman's List 2012/2013
+  * ASTAR Undergraduate Scholarship
+
 
 Work experience
 ======
