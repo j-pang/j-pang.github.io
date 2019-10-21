@@ -11,21 +11,42 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Mathematical Sciences, Nanyang Technological University, 2013
+  * First Class Honors 
+* Ph.D Computing and Mathematical Sciences, California Institute of Technology, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019 - Present: Data Scientist
+  * Software Technology and Innovation Center
+  * Presented to...
+  * Supervisor: Dr Jose Celaya
 
-* Fall 2015: Research Assistant
+* Fall 2018 - Spring 2019: Teaching Fellow
+  * California Institute of Technology
+  * Guided TAs
+  * Supervisor: Dr Cassandra Horii
+
+* Summer 2018: Research Assistant
   * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * RL environment 
+  * Supervisor: Dr Jose Celaya
+
+* Summer 2017: Research Assistant
+  * Github University
+  * Time-series 
+  * Supervisor: Dr Jose Celaya
+
+* 2014: Research Engineer
+  * Institute of High Performance Computing
+  * Car-following 
+  * Supervisor: Dr Christopher Monterola
+
+* Summer 2012: Research Intern
+  * Institute of Infocomm Research
+  * Oversampling
+  * Supervisor: Professor Vincent Tan
+
   
 Skills
 ======
