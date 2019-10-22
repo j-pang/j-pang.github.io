@@ -29,14 +29,14 @@ Work experience
   * Proof-of-concept machine learning and data science projects
   * Supervisor: Dr Jose Celaya
 
-* Fall 2018 - Spring 2019: Teaching Fellow
+* AY 2018/19: Teaching Fellow
   * California Institute of Technology
-  * Mentored First-time TAs 
+  * Mentored First-time TAs towards successful and fair teaching
   * Supervisor: Dr Cassandra Horii
 
 * Summer 2018: Data Science Intern
   * Software Technology and Innovation Center
-  * Designed RL environment on OpenAI Gym and validated various RL algorithms for O&G domain
+  * Designed RL environment on OpenAI Gym and validated various RL algorithms
   * Supervisor: Dr Jose Celaya
 
 * Summer 2017: Data Science Intern
@@ -46,7 +46,7 @@ Work experience
 
 * 2014: Research Engineer
   * Institute of High Performance Computing
-  * Developed and analyzed Car-following model 
+  * Developed and analyzed Car-following model to study stop-and-go behavior
   * Supervisor: Dr Christopher Monterola
 
 * Summer 2012: Research Intern
@@ -57,9 +57,9 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-* Skill 3
+* Python + Data Science Tools
+* Google Cloud/Microsoft Azure
+* OpenAI gym environment
 
 Publications
 ======
@@ -97,3 +97,7 @@ Service and leadership
 * Judge/Organizer, National Science Challenge, 2014
 * Research Mentor, Victoria School, 2013-2014
 * Executive Committee Member, Christian Fellowship, 2011-2012
+
+Awards and Achievement
+======
+* Amori Outstanding Dissertation Prize (Best Thesis)
