@@ -22,12 +22,16 @@ Education
   * ASTAR Undergraduate Scholarship
 
 
-Work experience
+Experience
 ======
 * 2019 - Present: Data Scientist
   * Software Technology and Innovation Center
   * Proof-of-concept machine learning and data science projects
   * Supervisor: Dr Jose Celaya
+
+* April 2019: Visiting Researcher
+  * University of Illinois, Urbana-Champaign
+  * Professor Subhonmesh Bose
 
 * AY 2018/19: Teaching Fellow
   * California Institute of Technology
@@ -38,6 +42,10 @@ Work experience
   * Software Technology and Innovation Center
   * Designed RL environment on OpenAI Gym and validated various RL algorithms
   * Supervisor: Dr Jose Celaya
+
+* May 2018: Visiting Researcher
+  * The Chinese University of Hong Kong
+  * Supervisor: Professor Minghua Chen
 
 * Summer 2017: Data Science Intern
   * Software Technology and Innovation Center
@@ -59,7 +67,7 @@ Skills
 ======
 * Python + Data Science Tools
 * Google Cloud/Microsoft Azure
-* OpenAI gym environment
+* OpenAI Gym environment
 
 Publications
 ======
