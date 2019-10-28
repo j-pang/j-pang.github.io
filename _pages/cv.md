@@ -31,21 +31,23 @@ Experience
 
 * April 2019: Visiting Researcher
   * University of Illinois, Urbana-Champaign
-  * Professor Subhonmesh Bose
+  * Analyzed the economic impact of demand management under a networked Stackelberg model
+  * Host: Professor Subhonmesh Bose
 
 * AY 2018/19: Teaching Fellow
   * California Institute of Technology
-  * Mentored First-time TAs towards successful and fair teaching
+  * Mentored First-time TAs towards successful and inclusive teaching
   * Supervisor: Dr Cassandra Horii
 
 * Summer 2018: Data Science Intern
   * Software Technology and Innovation Center
-  * Designed RL environment on OpenAI Gym and validated various RL algorithms
+  * Designed reinforcement learning environment on OpenAI Gym and validated various RL algorithms
   * Supervisor: Dr Jose Celaya
 
 * May 2018: Visiting Researcher
   * The Chinese University of Hong Kong
-  * Supervisor: Professor Minghua Chen
+  * Formulated a novel, probably optimal, competitive ratio pursuit online optimization algorithm
+  * Host: Professor Minghua Chen
 
 * Summer 2017: Data Science Intern
   * Software Technology and Innovation Center
@@ -109,3 +111,4 @@ Service and leadership
 Awards and Achievement
 ======
 * Amori Outstanding Dissertation Prize (Best Thesis)
+* 
