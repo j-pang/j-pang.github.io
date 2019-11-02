@@ -1,15 +1,15 @@
 ---
-title: "MOGT: oversampling with a parsimonious mixture of Gaussian trees model for imbalanced time-series classification"
+title: "Battery swapping assignment for electric vehicles: A bipartite matching approach"
 collection: publications
-permalink: /publication/mlsp2013_mogt
-excerpt: 'This paper is on using a mixture of gaussian trees statistical model to solve the problem of multi-modal imbalanced time-series classification.'
-date: 2013-09-25
-venue: 'IEEE International Workshop on Machine Learning for Signal Processing (MLSP)'
-paperurl: 'http://j-pang.github.io/files/mlsp2013_mogt.pdf'
-citation: 'John Z. F. Pang, Hong Cao, Vincent Y. F. Tan (2013). &quot;MOGT: oversampling with a parsimonious mixture of Gaussian trees model for imbalanced time-series classification.&quot; <i>IEEE Machine Learning for Signal Processing</i>.'
+permalink: /publication/cdc2017_offlinebattswap
+excerpt: 'This paper models the battery swapping assignment problem as a bipartite matching problem, utilizing the Hungarian Algorithm, which provides significant improvement over greedy algorithms.'
+date: 2017-12-12
+venue: 'IEEE Annual Conference on Decision and Control (CDC)'
+paperurl: 'http://j-pang.github.io/files/cdc2017_offlinebattswap.pdf'
+citation: 'Pengcheng You, John Z. F. Pang, Minghua Chen, Steven H Low, Youxian Sun (2017). &quot;Battery swapping assignment for electric vehicles: A bipartite matching approach.&quot; <i>IEEE Annual Conference on Decision and Control (CDC)</i>.'
 ---
-This paper is on using a mixture of gaussian trees statistical model to solve the problem of multi-modal imbalanced time-series classification.
+This paper models the battery swapping assignment problem as a bipartite matching problem, utilizing the Hungarian Algorithm, which provides significant improvement over greedy algorithms.
 
-[Download paper here](http://j-pang.github.io/files/mlsp2013_mogt.pdf)
+[Download paper here](http://j-pang.github.io/files/cdc2017_offlinebattswap.pdf)
 
-Recommended citation: John Z. F. Pang, Hong Cao, Vincent Y. F. Tan (2013). "MOGT: oversampling with a parsimonious mixture of Gaussian trees model for imbalanced time-series classification." <i>IEEE Machine Learning for Signal Processing</i>. 
+Recommended citation: Pengcheng You, John Z. F. Pang, Minghua Chen, Steven H Low, Youxian Sun (2017). "Battery swapping assignment for electric vehicles: A bipartite matching approach." <i>IEEE Annual Conference on Decision and Control (CDC)</i>. 
