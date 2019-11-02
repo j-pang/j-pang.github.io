@@ -1,15 +1,15 @@
 ---
-title: "MOGT: oversampling with a parsimonious mixture of Gaussian trees model for imbalanced time-series classification"
+title: "Dynamic Service Function Chaining in SDN-Enabled Networks with Middleboxes"
 collection: publications
-permalink: /publication/mlsp2013_mogt
-excerpt: 'This paper is on using a mixture of gaussian trees statistical model to solve the problem of multi-modal imbalanced time-series classification.'
-date: 2013-09-25
-venue: 'IEEE International Workshop on Machine Learning for Signal Processing (MLSP)'
-paperurl: 'http://j-pang.github.io/files/mlsp2013_mogt.pdf'
-citation: 'John Z. F. Pang, Hong Cao, Vincent Y. F. Tan (2013). &quot;MOGT: oversampling with a parsimonious mixture of Gaussian trees model for imbalanced time-series classification.&quot; <i>IEEE Machine Learning for Signal Processing</i>.'
+permalink: /publication/icnp2016_dsfc
+excerpt: 'This paper utilizes a primal-dual update algorithm to optimize dynamic service function chaining in SDN-enabled networks.'
+date: 2016-12-15
+venue: 'IEEE International Conference on Network Protocols (ICNP)'
+paperurl: 'http://j-pang.github.io/files/icnp2016_dsfc.pdf'
+citation: 'Linqi Guo, John Z. F. Pang, Anwar Walid (2016). &quot;Dynamic Service Function Chaining in SDN-Enabled Networks with Middleboxes.&quot; <i>IEEE International Conference on Network Protocols</i>.'
 ---
-This paper is on using a mixture of gaussian trees statistical model to solve the problem of multi-modal imbalanced time-series classification.
+This paper utilizes a primal-dual update algorithm to optimize dynamic service function chaining in SDN-enabled networks.
 
-[Download paper here](http://j-pang.github.io/files/mlsp2013_mogt.pdf)
+[Download paper here](http://j-pang.github.io/files/icnp2016_dsfc.pdf)
 
-Recommended citation: John Z. F. Pang, Hong Cao, Vincent Y. F. Tan (2013). "MOGT: oversampling with a parsimonious mixture of Gaussian trees model for imbalanced time-series classification." <i>IEEE Machine Learning for Signal Processing</i>. 
+Recommended citation: Linqi Guo, John Z. F. Pang, Anwar Walid (2016). "Dynamic Service Function Chaining in SDN-Enabled Networks with Middleboxes." <i>IEEE International Conference on Network Protocols</i>. 
