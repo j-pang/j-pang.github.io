@@ -1,15 +1,15 @@
 ---
-title: "MOGT: oversampling with a parsimonious mixture of Gaussian trees model for imbalanced time-series classification"
+title: "Temporally Networked Cournot Platform Markets"
 collection: publications
-permalink: /publication/mlsp2013_mogt
-excerpt: 'This paper is on using a mixture of gaussian trees statistical model to solve the problem of multi-modal imbalanced time-series classification.'
-date: 2013-09-25
-venue: 'IEEE International Workshop on Machine Learning for Signal Processing (MLSP)'
-paperurl: 'http://j-pang.github.io/files/mlsp2013_mogt.pdf'
-citation: 'John Z. F. Pang, Hong Cao, Vincent Y. F. Tan (2013). &quot;MOGT: oversampling with a parsimonious mixture of Gaussian trees model for imbalanced time-series classification.&quot; <i>IEEE Machine Learning for Signal Processing</i>.'
+permalink: /publication/hicss2018_netcournot
+excerpt: 'In this paper, we extend the 2017 INFOCOM paper by studying sequential networked Cournot markets.'
+date: 2018-01-01
+venue: 'Hawaii International Conference on System Science (HICSS)'
+paperurl: 'http://j-pang.github.io/files/hicss2018_netcournot.pdf'
+citation: 'John Z. F. Pang, Pengcheng You, Minghua Chen (2018). &quot;Temporally Networked Cournot Platform Markets.&quot; <i>Hawaii International Conference on System Science (HICSS)</i>.'
 ---
-This paper is on using a mixture of gaussian trees statistical model to solve the problem of multi-modal imbalanced time-series classification.
+In this paper, we extend the 2017 INFOCOM paper by studying sequential networked Cournot markets.
 
-[Download paper here](http://j-pang.github.io/files/mlsp2013_mogt.pdf)
+[Download paper here](http://j-pang.github.io/files/hicss2018_netcournot.pdf)
 
-Recommended citation: John Z. F. Pang, Hong Cao, Vincent Y. F. Tan (2013). "MOGT: oversampling with a parsimonious mixture of Gaussian trees model for imbalanced time-series classification." <i>IEEE Machine Learning for Signal Processing</i>. 
+Recommended citation: John Z. F. Pang, Pengcheng You, Minghua Chen (2018). "Temporally Networked Cournot Platform Markets." <i>Hawaii International Conference on System Science (HICSS)</i>. 

@@ -1,15 +1,15 @@
 ---
-title: "MOGT: oversampling with a parsimonious mixture of Gaussian trees model for imbalanced time-series classification"
+title: "Optimal load control for frequency regulation under limited control coverage"
 collection: publications
-permalink: /publication/mlsp2013_mogt
-excerpt: 'This paper is on using a mixture of gaussian trees statistical model to solve the problem of multi-modal imbalanced time-series classification.'
-date: 2013-09-25
-venue: 'IEEE International Workshop on Machine Learning for Signal Processing (MLSP)'
-paperurl: 'http://j-pang.github.io/files/mlsp2013_mogt.pdf'
-citation: 'John Z. F. Pang, Hong Cao, Vincent Y. F. Tan (2013). &quot;MOGT: oversampling with a parsimonious mixture of Gaussian trees model for imbalanced time-series classification.&quot; <i>IEEE Machine Learning for Signal Processing</i>.'
+permalink: /publication/irep2017_optloadcontrol
+excerpt: 'By framing the problem as an optimization problem and applying saddle-point dynamics, we obtain a control law that rebalances power and asymptotically stabilizes frequency after a disturbance. In this paper, we generalize previous work to partial control over all nodes in the network.'
+date: 2017-06-01
+venue: 'IREP Symposium'
+paperurl: 'http://j-pang.github.io/files/irep2017_optloadcontrol.pdf'
+citation: 'John Z. F. Pang, Linqi Guo, Steven H Low (2017). &quot;Optimal load control for frequency regulation under limited control coverage.&quot; <i>IREP Symposium</i>.'
 ---
-This paper is on using a mixture of gaussian trees statistical model to solve the problem of multi-modal imbalanced time-series classification.
+By framing the problem as an optimization problem and applying saddle-point dynamics, we obtain a control law that rebalances power and asymptotically stabilizes frequency after a disturbance. In this paper, we generalize previous work to partial control over all nodes in the network.
 
-[Download paper here](http://j-pang.github.io/files/mlsp2013_mogt.pdf)
+[Download paper here](http://j-pang.github.io/files/irep2017_optloadcontrol.pdf)
 
-Recommended citation: John Z. F. Pang, Hong Cao, Vincent Y. F. Tan (2013). "MOGT: oversampling with a parsimonious mixture of Gaussian trees model for imbalanced time-series classification." <i>IEEE Machine Learning for Signal Processing</i>. 
+Recommended citation: John Z. F. Pang, Linqi Guo, Steven H Low (2017). "Optimal load control for frequency regulation under limited control coverage." <i>IREP Symposium</i>. 

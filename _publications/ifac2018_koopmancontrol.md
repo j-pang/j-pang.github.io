@@ -1,15 +1,15 @@
 ---
-title: "MOGT: oversampling with a parsimonious mixture of Gaussian trees model for imbalanced time-series classification"
+title: "Deep Koopman Controller Synthesis for Cyber-Resilient Market-Based Frequency Regulation"
 collection: publications
-permalink: /publication/mlsp2013_mogt
-excerpt: 'This paper is on using a mixture of gaussian trees statistical model to solve the problem of multi-modal imbalanced time-series classification.'
-date: 2013-09-25
-venue: 'IEEE International Workshop on Machine Learning for Signal Processing (MLSP)'
-paperurl: 'http://j-pang.github.io/files/mlsp2013_mogt.pdf'
-citation: 'John Z. F. Pang, Hong Cao, Vincent Y. F. Tan (2013). &quot;MOGT: oversampling with a parsimonious mixture of Gaussian trees model for imbalanced time-series classification.&quot; <i>IEEE Machine Learning for Signal Processing</i>.'
+permalink: /publication/ifac2018_koopmancontrol
+excerpt: 'This paper proposes a deep Koopman controlled approach for market-based frequency regulation.'
+date: 2018-01-01
+venue: 'IFAC Symposium on Control of Power and Energy Systems (CPES)'
+paperurl: 'http://j-pang.github.io/files/ifac2018_koopmancontrol.pdf'
+citation: 'Pengcheng You, John Z. F. Pang, Enoch Yeung (2018). &quot;Deep Koopman Controller Synthesis for Cyber-Resilient Market-Based Frequency Regulation.&quot; <i>IFAC Symposium on Control of Power and Energy Systems (CPES)</i>.'
 ---
-This paper is on using a mixture of gaussian trees statistical model to solve the problem of multi-modal imbalanced time-series classification.
+This paper proposes a deep Koopman controlled approach for market-based frequency regulation.
 
-[Download paper here](http://j-pang.github.io/files/mlsp2013_mogt.pdf)
+[Download paper here](http://j-pang.github.io/files/ifac2018_koopmancontrol.pdf)
 
-Recommended citation: John Z. F. Pang, Hong Cao, Vincent Y. F. Tan (2013). "MOGT: oversampling with a parsimonious mixture of Gaussian trees model for imbalanced time-series classification." <i>IEEE Machine Learning for Signal Processing</i>. 
+Recommended citation: Pengcheng You, John Pang, Enoch Yeung (2018). "Deep Koopman Controller Synthesis for Cyber-Resilient Market-Based Frequency Regulation." <i>IFAC Symposium on Control of Power and Energy Systems (CPES)</i>. 

@@ -1,15 +1,15 @@
 ---
-title: "MOGT: oversampling with a parsimonious mixture of Gaussian trees model for imbalanced time-series classification"
+title: "Joint placement and routing of network function chains in data centers"
 collection: publications
-permalink: /publication/mlsp2013_mogt
-excerpt: 'This paper is on using a mixture of gaussian trees statistical model to solve the problem of multi-modal imbalanced time-series classification.'
-date: 2013-09-25
-venue: 'IEEE International Workshop on Machine Learning for Signal Processing (MLSP)'
-paperurl: 'http://j-pang.github.io/files/mlsp2013_mogt.pdf'
-citation: 'John Z. F. Pang, Hong Cao, Vincent Y. F. Tan (2013). &quot;MOGT: oversampling with a parsimonious mixture of Gaussian trees model for imbalanced time-series classification.&quot; <i>IEEE Machine Learning for Signal Processing</i>.'
+permalink: /publication/infocom2018_prnfc
+excerpt: 'In this work, we investigate the problem of joint optimization over placement and routing of network function chains in data centers.'
+date: 2018-04-16
+venue: 'IEEE Conference on Computer Communications (INFOCOM)'
+paperurl: 'http://j-pang.github.io/files/infocom2018_prnfc.pdf'
+citation: 'Linqi Guo, John Z. F. Pang, Anwar Walid (2018). &quot;Joint placement and routing of network function chains in data centers.&quot; <i>IEEE Conference on Computer Communications (INFOCOM)</i>.'
 ---
-This paper is on using a mixture of gaussian trees statistical model to solve the problem of multi-modal imbalanced time-series classification.
+In this work, we investigate the problem of joint optimization over placement and routing of network function chains in data centers.
 
-[Download paper here](http://j-pang.github.io/files/mlsp2013_mogt.pdf)
+[Download paper here](http://j-pang.github.io/files/infocom2018_prnfc.pdf)
 
-Recommended citation: John Z. F. Pang, Hong Cao, Vincent Y. F. Tan (2013). "MOGT: oversampling with a parsimonious mixture of Gaussian trees model for imbalanced time-series classification." <i>IEEE Machine Learning for Signal Processing</i>. 
+Recommended citation: Linqi Guo, John Z. F. Pang, Anwar Walid (2018). "Joint placement and routing of network function chains in data centers." <i>IEEE Conference on Computer Communications (INFOCOM)</i>. 

@@ -1,15 +1,15 @@
 ---
-title: "MOGT: oversampling with a parsimonious mixture of Gaussian trees model for imbalanced time-series classification"
+title: "Distributed optimal frequency control considering a nonlinear network-preserving model"
 collection: publications
-permalink: /publication/mlsp2013_mogt
-excerpt: 'This paper is on using a mixture of gaussian trees statistical model to solve the problem of multi-modal imbalanced time-series classification.'
-date: 2013-09-25
-venue: 'IEEE International Workshop on Machine Learning for Signal Processing (MLSP)'
-paperurl: 'http://j-pang.github.io/files/mlsp2013_mogt.pdf'
-citation: 'John Z. F. Pang, Hong Cao, Vincent Y. F. Tan (2013). &quot;MOGT: oversampling with a parsimonious mixture of Gaussian trees model for imbalanced time-series classification.&quot; <i>IEEE Machine Learning for Signal Processing</i>.'
+permalink: /publication/tps2018_optloadcontrol
+excerpt: 'This paper extends the IREP symposium paper, addressing the distributed optimal frequency control of power systems considering a network-preserving model with nonlinear power flows and excitation voltage dynamics.'
+date: 2018-08-01
+venue: 'IEEE Transactions on Power Systems'
+paperurl: 'http://j-pang.github.io/files/tps2018_optloadcontrol.pdf'
+citation: 'Zhaojian Wang, Feng Liu, John Z. F. Pang, Steven H Low, Shengwei Mei (2018). &quot;Distributed optimal frequency control considering a nonlinear network-preserving model.&quot; <i>IEEE Transactions on Power Systems</i>.'
 ---
-This paper is on using a mixture of gaussian trees statistical model to solve the problem of multi-modal imbalanced time-series classification.
+This paper extends the IREP symposium paper, addressing the distributed optimal frequency control of power systems considering a network-preserving model with nonlinear power flows and excitation voltage dynamics.
 
-[Download paper here](http://j-pang.github.io/files/mlsp2013_mogt.pdf)
+[Download paper here](http://j-pang.github.io/files/tps2018_optloadcontrol.pdf)
 
-Recommended citation: John Z. F. Pang, Hong Cao, Vincent Y. F. Tan (2013). "MOGT: oversampling with a parsimonious mixture of Gaussian trees model for imbalanced time-series classification." <i>IEEE Machine Learning for Signal Processing</i>. 
+Recommended citation: Zhaojian Wang, Feng Liu, John Z. F. Pang, Steven H Low, Shengwei Mei (2018). "Distributed optimal frequency control considering a nonlinear network-preserving model." <i>IEEE Transactions on Power Systems</i>. 

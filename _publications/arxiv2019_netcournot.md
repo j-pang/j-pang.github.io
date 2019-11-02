@@ -1,15 +1,15 @@
 ---
-title: "MOGT: oversampling with a parsimonious mixture of Gaussian trees model for imbalanced time-series classification"
+title: "Transparency and Control in Platforms for Networked Markets"
 collection: publications
-permalink: /publication/mlsp2013_mogt
-excerpt: 'This paper is on using a mixture of gaussian trees statistical model to solve the problem of multi-modal imbalanced time-series classification.'
-date: 2013-09-25
-venue: 'IEEE International Workshop on Machine Learning for Signal Processing (MLSP)'
-paperurl: 'http://j-pang.github.io/files/mlsp2013_mogt.pdf'
-citation: 'John Z. F. Pang, Hong Cao, Vincent Y. F. Tan (2013). &quot;MOGT: oversampling with a parsimonious mixture of Gaussian trees model for imbalanced time-series classification.&quot; <i>IEEE Machine Learning for Signal Processing</i>.'
+permalink: /publication/arxiv2019_netcournot
+excerpt: 'This paper extends the INFOCOM 2017 and CDC 2017 paper and analyze the worst case efficiency loss of online platform designs under a networked Cournot competition model. The manuscript is currently in final revision. '
+date: 2019-03-11
+venue: 'In submission to Operations Research'
+paperurl: 'http://j-pang.github.io/files/arxiv2019_netcournot.pdf'
+citation: 'John Z. F. Pang, Weixuan Lin, Hu Fu, Jack Kleeman, Eilyan Bitar, Adam Wierman (2019). &quot;Transparency and Control in Platforms for Networked Markets.&quot; <i>In submission to Operations Research</i>.'
 ---
-This paper is on using a mixture of gaussian trees statistical model to solve the problem of multi-modal imbalanced time-series classification.
+This paper extends the INFOCOM 2017 and CDC 2017 paper and analyze the worst case efficiency loss of online platform designs under a networked Cournot competition model. The manuscript is currently in final revision. 
 
-[Download paper here](http://j-pang.github.io/files/mlsp2013_mogt.pdf)
+[Download paper here](http://j-pang.github.io/files/arxiv2019_netcournot.pdf)
 
-Recommended citation: John Z. F. Pang, Hong Cao, Vincent Y. F. Tan (2013). "MOGT: oversampling with a parsimonious mixture of Gaussian trees model for imbalanced time-series classification." <i>IEEE Machine Learning for Signal Processing</i>. 
+Recommended citation: John Z. F. Pang, Weixuan Lin, Hu Fu, Jack Kleeman, Eilyan Bitar, Adam Wierman (2019). "Transparency and Control in Platforms for Networked Markets." <i>In submission to Operations Research</i>. 
