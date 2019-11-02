@@ -1,15 +1,15 @@
 ---
-title: "MOGT: oversampling with a parsimonious mixture of Gaussian trees model for imbalanced time-series classification"
+title: "Asymmetric optimal-velocity car-following model"
 collection: publications
-permalink: /publication/mlsp2013_mogt
-excerpt: 'This paper is on using a mixture of gaussian trees statistical model to solve the problem of multi-modal imbalanced time-series classification.'
-date: 2013-09-25
-venue: 'IEEE International Workshop on Machine Learning for Signal Processing (MLSP)'
-paperurl: 'http://j-pang.github.io/files/mlsp2013_mogt.pdf'
-citation: 'John Z. F. Pang, Hong Cao, Vincent Y. F. Tan (2013). &quot;MOGT: oversampling with a parsimonious mixture of Gaussian trees model for imbalanced time-series classification.&quot; <i>IEEE Machine Learning for Signal Processing</i>.'
+permalink: /publication/phyA2015_aov
+excerpt: 'An asymmetric optimal velocity model is proposed for car-following theory, where the asymmetry between the acceleration and the deceleration is represented by the exponential function with an asymmetrical factor, which agrees with published experiments.'
+date: 2015-10-15
+venue: 'Physica A: Statistical Mechanics and its Applications'
+paperurl: 'http://j-pang.github.io/files/phyA2015_aov.pdf'
+citation: 'Xihua Xu, John Z. F. Pang, Christopher Monterola (2015). &quot;Asymmetric optimal-velocity car-following model.&quot; <i>Physica A: Statistical Mechanics and its Applications</i>.'
 ---
-This paper is on using a mixture of gaussian trees statistical model to solve the problem of multi-modal imbalanced time-series classification.
+An asymmetric optimal velocity model is proposed for car-following theory, where the asymmetry between the acceleration and the deceleration is represented by the exponential function with an asymmetrical factor, which agrees with published experiments.
 
-[Download paper here](http://j-pang.github.io/files/mlsp2013_mogt.pdf)
+[Download paper here](http://j-pang.github.io/files/phyA2015_aov.pdf)
 
-Recommended citation: John Z. F. Pang, Hong Cao, Vincent Y. F. Tan (2013). "MOGT: oversampling with a parsimonious mixture of Gaussian trees model for imbalanced time-series classification." <i>IEEE Machine Learning for Signal Processing</i>. 
+Recommended citation: Xihua Xu, John Z. F. Pang, Christopher Monterola (2015). "Asymmetric optimal-velocity car-following model." <i>Physica A: Statistical Mechanics and its Applications</i>. 
