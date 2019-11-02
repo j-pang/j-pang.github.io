@@ -110,5 +110,18 @@ Service and leadership
 
 Awards and Achievement
 ======
+* Schlumberger Reservoir Symposium Geomarket Data Challenge
 * Amori Outstanding Dissertation Prize (Best Thesis)
-* 
+* Caltech CMS Graduate Teaching Fellow, AY 2018-2019
+* Winner, STIC OWASP Security Hackathon, July 2018
+* Runner-up, Southern California Citadel Datathon, November 2017
+* Winner, STIC Ticket Classification Hackathon, July 2017
+* National Science Scholarship --- Full PhD Fellowship
+* Judge and Organizer, Singapore National Science Challenge
+* First Class Honors, NTU
+* Accelerated Bachelor Program, NTU
+* A*STAR Chairman's List AY 2012-2013
+* Summer Undergraduate Research Fellow, NTU 
+* A*STAR Undergraduate Scholarship --- Full B.Sc. Fellowship
+* High Distinction, Australia Mathematics Competition
+* Gold Award, Singapore Mathematical Olympiad 
