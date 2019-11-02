@@ -1,15 +1,15 @@
 ---
-title: "MOGT: oversampling with a parsimonious mixture of Gaussian trees model for imbalanced time-series classification"
+title: "The efficiency of open access in platforms for networked cournot markets"
 collection: publications
-permalink: /publication/mlsp2013_mogt
-excerpt: 'This paper is on using a mixture of gaussian trees statistical model to solve the problem of multi-modal imbalanced time-series classification.'
-date: 2013-09-25
-venue: 'IEEE International Workshop on Machine Learning for Signal Processing (MLSP)'
-paperurl: 'http://j-pang.github.io/files/mlsp2013_mogt.pdf'
-citation: 'John Z. F. Pang, Hong Cao, Vincent Y. F. Tan (2013). &quot;MOGT: oversampling with a parsimonious mixture of Gaussian trees model for imbalanced time-series classification.&quot; <i>IEEE Machine Learning for Signal Processing</i>.'
+permalink: /publication/infocom2017_netcournot
+excerpt: 'This paper studies how the efficiency of an online platform is impacted by the degree to which access of platform participants is open or controlled. '
+date: 2017-05-01
+venue: 'IEEE Conference on Computer Communications (INFOCOM)'
+paperurl: 'http://j-pang.github.io/files/infocom2017_netcournot.pdf'
+citation: 'John Z. F. Pang, Hu Fu, Won I. Lee, Adam Wierman (2017). &quot;The efficiency of open access in platforms for networked cournot markets.&quot; <i>IEEE Conference on Computer Communications (INFOCOM)</i>.'
 ---
-This paper is on using a mixture of gaussian trees statistical model to solve the problem of multi-modal imbalanced time-series classification.
+This paper studies how the efficiency of an online platform is impacted by the degree to which access of platform participants is open or controlled. 
 
-[Download paper here](http://j-pang.github.io/files/mlsp2013_mogt.pdf)
+[Download paper here](http://j-pang.github.io/files/infocom2017_netcournot.pdf)
 
-Recommended citation: John Z. F. Pang, Hong Cao, Vincent Y. F. Tan (2013). "MOGT: oversampling with a parsimonious mixture of Gaussian trees model for imbalanced time-series classification." <i>IEEE Machine Learning for Signal Processing</i>. 
+Recommended citation: John Z. F. Pang, Hu Fu, Won I. Lee, Adam Wierman (2017). "The efficiency of open access in platforms for networked cournot markets." <i>IEEE Conference on Computer Communications (INFOCOM)</i>. 
