@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "John Pang's Academic Website"
+title: "John Pang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
