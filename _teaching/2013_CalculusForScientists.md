@@ -2,7 +2,7 @@
 title: "NTU Calculus for the Sciences"
 collection: teaching
 type: "Course"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/ntu-calculus
 venue: "Nanyang Technological University, SPMS"
 date: 2013-01-01
 location: "Singapore, Singapore"
