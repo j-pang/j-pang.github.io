@@ -13,21 +13,23 @@ Education
 ======
 * Ph.D Computing and Mathematical Sciences, California Institute of Technology, 2019
   * Thesis: Online Platforms in Networked Markets: Transparency, Anticipation and Demand Management
-  * Amori Outstanding Dissertation Prize 
-  * National Science Scholarship 
+  * Amori Outstanding Dissertation Award for Computing and Mathematical Sciences
+  * National Science Scholarship (Ph.D.) - Full Tuition Scholarship
   
 * B.S. Mathematical Sciences, Nanyang Technological University, 2013
   * First Class Honors
   * Accelerated Bachelors Program
   * ASTAR Chairman's List 2012/2013
-  * ASTAR Undergraduate Scholarship
+  * ASTAR Undergraduate Scholarship - Full Tuition Scholarship
 
 
 Experience
 ======
 * 2019 - Present: Data Scientist
-  * Software Technology and Innovation Center
+  * Schlumberger Software Technology and Innovation Center, Menlo Park, CA
   * Proof-of-concept machine learning and data science projects
+  * Finalist for FIZZ Forum 2020 - Top 21 Projects 
+  * Presented at the 2019 Reservoir Symposium Data Challenge
   * Supervisor: Dr Jose Celaya
 
 * April 2019: Visiting Researcher
@@ -36,12 +38,12 @@ Experience
   * Host: Professor Subhonmesh Bose
 
 * AY 2018/19: Teaching Fellow
-  * California Institute of Technology
+  * Center for Teaching, Learning and Outreach, California Institute of Technology
   * Mentored First-time TAs towards successful and inclusive teaching
   * Supervisor: Dr Cassandra Horii
 
 * Summer 2018: Data Science Intern
-  * Software Technology and Innovation Center
+  * Schlumberger Software Technology and Innovation Center, Menlo Park, CA
   * Designed reinforcement learning environment on OpenAI Gym and validated various RL algorithms
   * Supervisor: Dr Jose Celaya
 
@@ -51,18 +53,18 @@ Experience
   * Host: Professor Minghua Chen
 
 * Summer 2017: Data Science Intern
-  * Software Technology and Innovation Center
+  * Schlumberger Software Technology and Innovation Center, Menlo Park, CA
   * Time-series classification using machine learning and signal processing
   * Supervisor: Dr Jose Celaya
 
 * 2014: Research Engineer
   * Institute of High Performance Computing
-  * Developed and analyzed Car-following model to study stop-and-go behavior
+  * Developed and analyzed car-following dynamics model to study stop-and-go behavior
   * Supervisor: Dr Christopher Monterola
 
 * Summer 2012: Research Intern
   * Institute of Infocomm Research
-  * Designed new Oversampling method for multi-modal time-series data
+  * Designed new oversampling method for multi-modal time-series data
   * Supervisor: Professor Vincent Tan
 
   
