@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "TA for Caltech ACM104 Linear Operator Theory"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate course"
+permalink: /teaching/caltech-linear-operator-theory
+venue: "California Institute of Technology, Computing and Mathematical Sciences"
+date: 2015-01-01
+location: "Pasadena, CA, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
