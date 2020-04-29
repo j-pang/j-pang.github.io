@@ -18,6 +18,7 @@ Education
   
 * B.S. Mathematical Sciences, Nanyang Technological University, 2013
   * First Class Honors
+  * Accelerated Bachelors Program
   * ASTAR Chairman's List 2012/2013
   * ASTAR Undergraduate Scholarship
 
@@ -77,17 +78,17 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+[comment] Talks
+[comment]======
+[comment]  <ul>{% for post in site.talks %}
+[comment]    {% include archive-single-talk-cv.html %}
+[comment]  {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+[comment] Teaching
+[comment] ======
+[comment]  <ul>{% for post in site.teaching %}
+[comment]    {% include archive-single-cv.html %}
+[comment]  {% endfor %}</ul>
   
 Service and leadership
 ======
@@ -100,6 +101,7 @@ Service and leadership
   * IEEE Transactions on Intelligent Transportation Systems (T-ITS)
   * IEEE Transactions of Networking (ToN)
   * IET Cyber Physical Systems (CPS)
+  * NeurIPS Workshop on ML for Physical Sciences Workshop (MLPS)
   * T&F Applied Economics Letters (AEL)
   * T&F Emerging Markets, Finance & Trade (EMFT)
 * President, Bridges@Caltech, 2016-2017
@@ -110,8 +112,10 @@ Service and leadership
 
 Awards and Achievement
 ======
-* Schlumberger Reservoir Symposium Geomarket Data Challenge
-* Amori Outstanding Dissertation Prize (Best Thesis)
+* Judge and Mentor, hack:now Global Hackathon 2020
+* Schlumberger FIZZ Forum Finalist (Top 21 Projects), 2020
+* Schlumberger Reservoir Symposium Geomarket Data Challenge, 2019
+* Amori Outstanding Dissertation Prize (Best Thesis), 2019
 * Caltech CMS Graduate Teaching Fellow, AY 2018-2019
 * Winner, STIC OWASP Security Hackathon, July 2018
 * Runner-up, Southern California Citadel Datathon, November 2017
