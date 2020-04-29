@@ -80,17 +80,17 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-[comment] Talks
-[comment]======
-[comment]  <ul>{% for post in site.talks %}
-[comment]    {% include archive-single-talk-cv.html %}
-[comment]  {% endfor %}</ul>
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
   
-[comment] Teaching
-[comment] ======
-[comment]  <ul>{% for post in site.teaching %}
-[comment]    {% include archive-single-cv.html %}
-[comment]  {% endfor %}</ul>
+Teaching 
+======
+  <ul>{% for post in site.teaching %}
+   {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Service and leadership
 ======
