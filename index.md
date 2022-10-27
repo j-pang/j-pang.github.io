@@ -4,14 +4,21 @@ layout: homepage
 
 ## About Me
 
-I am currently a research scientist in the Energy Systems Group at [A\*STAR's Institute of High Performance Computing](https://www.a-star.edu.sg/ihpc), where I apply control, learning, and optimization algorithms to study smart grid operations. I received my Ph.D. from [Caltech's Computing and Mathematical Sciences Program](https://www.cms.caltech.edu/) in 2019, where I was supervised by [Prof. Adam Wierman](https://adamwierman.com/) and [Prof. Steven Low](http://netlab.caltech.edu/). I received the [Amori Doctoral Prize in CMS](https://www.cms.caltech.edu/academics/honors) for my dissertation on Online Platforms in Networked Markets. I obtained my Bachelor's Degree in Mathematical Sciences (Pure Mathematics Track) from the [Nanyang Technological University's School of Physical and Mathematical Sciences](https://www.ntu.edu.sg/spms). 
+I am currently a research scientist in the Energy Systems Group at [A\*STAR's Institute of High Performance Computing](https://www.a-star.edu.sg/ihpc), where I apply control, learning, and optimization algorithms to study smart grid operations. I recently co-lectured an undergraduate Game Theory course in the [Engineering Systems and Design Pillar at SUTD](https://esd.sutd.edu.sg/) over the summer with [Prof. Lingjie Duan](https://esd.sutd.edu.sg/people/faculty/lingjie-duan). Before starting at IHPC in 2020, I was a Data Scientist at [Schlumberger's Software Technology and Innovation Center at Menlo Park, CA.](https://www.slb.com/). 
 
-My research lies at the intersection of **optimization**, **learning**, and **control** -- with a special focus on formulating and designing "not too bad" algorithms that work in both the offline and online optimization settings. My research is applied in the area of **power and energy systems**, **networking**, **economics**, and **computer science**.
+I received my Ph.D. from [Caltech's Computing and Mathematical Sciences Program](https://www.cms.caltech.edu/) in 2019, where I was supervised by [Prof. Adam Wierman](https://adamwierman.com/) and [Prof. Steven Low](http://netlab.caltech.edu/). At Caltech, I received the [Amori Doctoral Prize in CMS](https://www.cms.caltech.edu/academics/honors) for my dissertation on Online Platforms in Networked Markets. I obtained my Bachelor's Degree in Mathematical Sciences (Pure Mathematics Track) from the [Nanyang Technological University's School of Physical and Mathematical Sciences](https://www.ntu.edu.sg/spms) in 2013. My Ph.D. and B.Sc. studies were funded by the [National Science Scholarship](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/national-science-scholarship-phd) and the [A\*STAR Undergraduate Scholarship](https://brightsparks.com.sg/profile/astar/scholarship.php?schid=6397).  
 
-<strong style="color:#e74d3c; font-weight:600"> At IHPC, we are looking for researchers (both B.Sc./M.Sc. and Ph.D. graduates) who are interested in applying computing and data science in the area of energy systems. Do drop me an email if you are interested. </strong>
+My research lies at the intersection of **optimization**, **control**, and **operations research** -- with a special focus on formulating and designing algorithms that are provably "not too bad" in both the offline and online optimization settings. My research is applied in the area of **power and energy systems**, **networking**, **economics**, and **computer science**.
+
+Outside work, I enjoy spending time with my wife and daughter, playing badminton, and watching chess and soccer. 
+
+<strong style="color:#e74d3c; font-weight:600"> At IHPC, we are looking for researchers (both B.Sc./M.Sc. and Ph.D. graduates) who are interested in applying computing and data science in the area of energy systems. Do drop me an email if you are interested. Strong Ph.D. candidates that are interested may also write to me to arrange for a summer or half-year internship. </strong>
 
 ## News
 
-- **[Oct. 2022]**. I will be visiting a number of research labs and startups in the U.S., including NREL, Colorado State University, LBNL, UC Berkeley, Stanford, PowerFlex, Caltech, and MOEV. 
+- **[Oct. 2022]**  I will be visiting a number of research labs and startups in the U.S., including NREL, Colorado State University, LBNL, UC Berkeley, Stanford, PowerFlex, Caltech, and MOEV. 
+- **[May. 2022]**  I will be co-lecturing 40.316 Game Theory at Singapore University of Technology and Design. 
+- **[Apr. 2022]**  Our Singapore Integrated Transport & Energy Model (SITEM) project won the Ministry for Trade and Industry Firefly Borderless Silver Award.
 - **[Jan. 2022]**  Our paper titled ["Transparency and Control in Platforms for Networked Markets"](https://pubsonline.informs.org/doi/abs/10.1287/opre.2021.2244) got accepted into [Operations Research](https://pubsonline.informs.org/journal/opre).
 - **[Jan. 2022]**  I will be moderating a session by [Prof. C&#233dric Villani](https://www.cedricvillani.org/) at the Global Young Scientist Summit 2022. 
+- 
