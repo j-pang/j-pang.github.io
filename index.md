@@ -32,3 +32,5 @@ Outside work, I enjoy spending time with my wife and daughter, playing badminton
 
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=mQZqPVAAAAAJ&hl=en&oi=ao" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;"></temp></h2>
 
+<div class="publications">
+<ol class="bibliography">
