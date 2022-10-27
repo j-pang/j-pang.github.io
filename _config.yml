@@ -5,11 +5,11 @@ affiliation_link: https://www.a-star.edu.sg/ihpc
 email: john_pang (at) ihpc.a-star.edu
 keywords: john pang, john zhen fu pang, john pang zhen fu
 google_scholar: https://scholar.google.com/citations?user=mQZqPVAAAAAJ&hl=en&oi=ao
-cv_link: ./assets/recent_cv.pdf
+cv_link: https://www.j-pang.github.io/assets/recent_cv.pdf
 github_link: https://github.com/j-pang/
 linkedin: https://www.linkedin.com/in/john-pang-8870948a/
 twitter: https://twitter.com/jzpang/
-avatar: ./assets/img/profile.jpeg
+avatar: https://www.j-pang.github.io/assets/img/profile.jpeg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 description: John Pang is a Research Scientist at A*STAR IHPC, where he works on optimization and control algorithms for studying smart grid technologies. 
