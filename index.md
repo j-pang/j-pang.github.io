@@ -36,10 +36,6 @@ Outside work, I enjoy spending time with my wife and daughter, playing badminton
 <ol class="bibliography">
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/orpe_figure.png" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">OR</abbr>
-  </div>
   <div id="pang2022orpe" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://pubsonline.informs.org/doi/abs/10.1287/opre.2021.2244">Transparency and Control in Platforms for Networked Markets</a></div>
       <div class="author"><strong>John Zhen Fu Pang</strong>, Weixuan Lin, Hu Fu, Jack Kleeman, Eilyan Bitar, Adam Wierman</div>
