@@ -37,7 +37,7 @@ Outside work, I enjoy spending time with my wife and daughter, playing badminton
 <ol class="bibliography">
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 20px;padding-left: 15px;">
     <img src="./assets/img/orpe_figure.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">OR</abbr>
   </div>
