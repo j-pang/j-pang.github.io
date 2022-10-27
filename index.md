@@ -20,6 +20,7 @@ Outside work, I enjoy spending time with my wife and daughter, playing badminton
 - **[Sep. 2022]**  I received a teaching score of 4.8/5.0 for 40.316. Big thanks to my students for their attention through evening classes. 
 - **[May. 2022]**  I will be co-lecturing 40.316 Game Theory at Singapore University of Technology and Design. 
 - **[Apr. 2022]**  Our Singapore Integrated Transport & Energy Model (SITEM) project won the Ministry for Trade and Industry Firefly Borderless Silver Award.
+- **[Feb. 2022]**  I am giving a [talk](https://esd.sutd.edu.sg/news-events/research-seminar-series/john-pang-astar-platforms-in-networked-cournot-competition-access-or-allocation-control/) on "Platforms in Networked Cournot Competition: Access or Allocation Control" at SUTD ESD Research Seminar Series. 
 - **[Jan. 2022]**  Our paper titled ["Transparency and Control in Platforms for Networked Markets"](https://pubsonline.informs.org/doi/abs/10.1287/opre.2021.2244) got accepted into [Operations Research](https://pubsonline.informs.org/journal/opre).
 - **[Jan. 2022]**  I will be moderating a session by [Prof. C&#233;dric Villani](https://www.cedricvillani.org/) at the Global Young Scientist Summit 2022. 
 - 
