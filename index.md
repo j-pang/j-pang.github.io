@@ -37,7 +37,7 @@ Outside work, I enjoy spending time with my wife and daughter, playing badminton
 <ol class="bibliography">
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 20px;padding-left: 15px;">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/orpe_figure.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">OR</abbr>
   </div>
@@ -59,7 +59,7 @@ Outside work, I enjoy spending time with my wife and daughter, playing badminton
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/epsr_figure.png" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">CVPR</abbr>
+            <abbr class="badge">EPSR</abbr>
   </div>
   <div id="lee2020epsr" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://par.nsf.gov/servlets/purl/10202834">Pricing EV charging service with demand charge</a></div>
