@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a final-year Ph.D. candidate in Computer Science at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/), supervised by [Prof. Bernt Schiele](https://people.mpi-inf.mpg.de/~schiele/). As part of the [ELLIS Ph.D. Program](https://ellis.eu/phd-postdoc), I am co-supervised by [Dr. Christian Rupprecht](https://chrirupp.github.io/), with a planned exchange in the [Visual Geometry Group (VGG)](https://www.robots.ox.ac.uk/~vgg/) at the [University of Oxford](https://www.ox.ac.uk/). Meanwhile, I also work closely with [Prof. Andrea Vedaldi](https://www.robots.ox.ac.uk/~vedaldi/) and [Prof. Qianru Sun](https://qianrusun.com/). From 2018 to 2019, I  was a research intern at the [National University of Singapore](https://www.comp.nus.edu.sg/), working with [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) and [Prof. Qianru Sun](https://qianrusun.com/). I obtained my bachelor’s degree from [Tianjin University](http://www.tju.edu.cn/english/index.htm). 
+I am currently a research scientist in the Energy Systems Group at [A\*STAR's Institute of High Performance Computing](https://www.mpi-inf.mpg.de/), supervised by [Prof. Bernt Schiele](https://people.mpi-inf.mpg.de/~schiele/). As part of the [ELLIS Ph.D. Program](https://ellis.eu/phd-postdoc), I am co-supervised by [Dr. Christian Rupprecht](https://chrirupp.github.io/), with a planned exchange in the [Visual Geometry Group (VGG)](https://www.robots.ox.ac.uk/~vgg/) at the [University of Oxford](https://www.ox.ac.uk/). Meanwhile, I also work closely with [Prof. Andrea Vedaldi](https://www.robots.ox.ac.uk/~vedaldi/) and [Prof. Qianru Sun](https://qianrusun.com/). From 2018 to 2019, I  was a research intern at the [National University of Singapore](https://www.comp.nus.edu.sg/), working with [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) and [Prof. Qianru Sun](https://qianrusun.com/). I obtained my bachelor’s degree from [Tianjin University](http://www.tju.edu.cn/english/index.htm). 
 
 My research lies at the intersection of **computer vision** and **machine learning** -- with a special focus on building intelligent visual systems that are continual and data-efficient. My research interests include **continual learning**, **few-shot learning**, **semi-supervised learning**, and **image generation**.
 
@@ -270,7 +270,7 @@ My research lies at the intersection of **computer vision** and **machine learni
 <ul style="margin:0 0 5px;">
   <li><a href="https://aistats.org/aistats2023/"><autocolor>International Conference on Artificial Intelligence and Statistics (AISTATS) 2023</autocolor></a></li>
 </ul>
-
+<!-- 
 <h4 style="margin:0 10px 0;">Senior Program Committee</h4>
 
 <ul style="margin:0 0 5px;">
@@ -294,8 +294,8 @@ My research lies at the intersection of **computer vision** and **machine learni
   <li><a href="http://www.acml-conf.org/2021/"><autocolor>ACML 2021</autocolor></a></li>  
   -->
 </ul>
-
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+ -->
+<!-- <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
@@ -305,7 +305,7 @@ My research lies at the intersection of **computer vision** and **machine learni
   <li><a href="https://signalprocessingsociety.org/publications-resources/ieee-transactions-multimedia"><autocolor>IEEE Transactions on Multimedia (TMM)</autocolor></a></li>
   <li><a href="https://ieee-cas.org/publications/ieee-transactions-circuits-and-systems-video-technology"><autocolor>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</autocolor></a></li>
   <li><a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems"><autocolor>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</autocolor></a></li>
-  <li><a href="https://dl.acm.org/journal/tomm"><autocolor>ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)</autocolor></a></li>
+  <li><a href="https://dl.acm.org/journal/tomm"><autocolor>ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)</autocolor></a></li> -->
   <!--
   <li><a href="https://www.journals.elsevier.com/neural-networks"><autocolor>Neural Networks</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/10994"><autocolor>Machine Learning</autocolor></a></li>
