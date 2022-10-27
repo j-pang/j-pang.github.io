@@ -52,3 +52,23 @@ Outside work, I enjoy spending time with my wife and daughter, playing badminton
   </div>
 </div>
 </li>
+
+  <br>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://img.yliu.de/teaser/mnemonics.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">CVPR</abbr>
+  </div>
+  <div id="lee2020epsr" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://par.nsf.gov/servlets/purl/10202834">Pricing EV charging service with demand charge</a></div>
+      <div class="author">Zachary Lee, <strong>John Zhen Fu Pang</strong>, Steven Low</div>
+      <div class="periodical"><em> Elsevier Electric Power Systems Research <strong>(EPSR)</strong>, 2020.</em>
+      </div>
+    <div class="links">
+      <a href="https://par.nsf.gov/servlets/purl/10202834" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
