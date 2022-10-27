@@ -17,7 +17,7 @@ Outside work, I enjoy spending time with my wife and daughter, playing badminton
 ## Recent News
 
 - **[Oct. 2022]**  I will be visiting a number of research labs and startups in the U.S., including NREL, Colorado State University, LBNL, UC Berkeley, Stanford, PowerFlex, Caltech, and MOEV. 
-- **[Sep. 2022]**  I received a teaching score of 4.8/5.0 for 40.316. Big thanks to my students for their attention through evening classes. 
+- **[Sep. 2022]**  I received a teaching score of 4.8/5.0 for 40.316. Big thanks to my students for their attention through evening classes in their final year. 
 - **[May. 2022]**  I will be co-lecturing 40.316 Game Theory at Singapore University of Technology and Design. 
 - **[Apr. 2022]**  Our Singapore Integrated Transport & Energy Model (SITEM) project won the Ministry for Trade and Industry Firefly Borderless Silver Award.
 - **[Mar. 2022]**  I am helping to organize and will emcee the launch event for A\*STAR's Software and System Engineering Communities of Practice (CoP). 
