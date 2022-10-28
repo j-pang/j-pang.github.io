@@ -10,8 +10,6 @@ github_link: https://github.com/j-pang/
 linkedin: https://www.linkedin.com/in/john-pang-8870948a/
 twitter: https://twitter.com/jzpang/
 avatar: ./assets/img/profile.jpeg
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
 description: John Pang is a Research Scientist at A*STAR IHPC, where he works on optimization and control algorithms for studying smart grid technologies. 
 remote_theme: yaoyao-liu/minimal-light
 
