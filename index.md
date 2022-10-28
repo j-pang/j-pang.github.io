@@ -81,9 +81,9 @@ Outside work, I enjoy spending time with my wife and daughter, playing badminton
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/tits_figure.png" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">T-ITS</abbr>
+            <abbr class="badge">IEEE T-ITS</abbr>
   </div>
-  <div id="lee2020epsr" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div id="you2020tits" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://authors.library.caltech.edu/106994/1/09254167.pdf">Online station assignment for electric vehicle battery swapping</a></div>
       <div class="author">Pengcheng You, <strong>John Zhen Fu Pang</strong>, Steven Low</div>
       <div class="periodical"><em> IEEE Transactions for Intelligent Transportation Systems <strong>(T-ITS)</strong>, 2020.</em>
@@ -103,8 +103,8 @@ Outside work, I enjoy spending time with my wife and daughter, playing badminton
     <img src="./assets/img/sigmetrics_figure.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">SIGMETRICS</abbr>
   </div>
-  <div id="lee2020epsr" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="[https://authors.library.caltech.edu/106994/1/09254167.pdf](https://core.ac.uk/download/pdf/216301973.pdf)">Competitive online optimization under inventory constraints</a></div>
+  <div id="lin2019sigmetrics" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://core.ac.uk/download/pdf/216301973.pdf">Competitive online optimization under inventory constraints</a></div>
       <div class="author">Qiulin Lin, Hanling Yi, <strong>John Zhen Fu Pang</strong>, Minghua Chen, Adam Wierman, Michael Honig, Yuanzhang Xiao </div>
       <div class="periodical"><em> Proceedings of the ACM on Measurement and Analysis of Computing Systems <strong>(Sigmetrics)</strong>, 2019.</em>
       </div>
@@ -115,3 +115,22 @@ Outside work, I enjoy spending time with my wife and daughter, playing badminton
 </div>
 </li>
 
+  <br>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/tps2019_figure.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">IEEE TPS</abbr>
+  </div>
+  <div id="wang2019tps" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/pdf/1709.01543">Distributed optimal frequency control considering a nonlinear network-preserving model</a></div>
+      <div class="author">Zhaojian Wang, Feng Liu, <strong>John Zhen Fu Pang</strong>, Steven Low, Shengwei Mei</div>
+      <div class="periodical"><em> IEEE Transactions of Power Systems <strong>(IEEE TPS)</strong>, 2019.</em>
+      </div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/1709.01543" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
