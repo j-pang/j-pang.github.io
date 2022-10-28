@@ -94,3 +94,24 @@ Outside work, I enjoy spending time with my wife and daughter, playing badminton
   </div>
 </div>
 </li>
+  
+  <br>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/sigmetrics_figure.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">SIGMETRICS</abbr>
+  </div>
+  <div id="lee2020epsr" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="[https://authors.library.caltech.edu/106994/1/09254167.pdf](https://core.ac.uk/download/pdf/216301973.pdf)">Competitive online optimization under inventory constraints</a></div>
+      <div class="author">Qiulin Lin, Hanling Yi, <strong>John Zhen Fu Pang</strong>, Minghua Chen, Adam Wierman, Michael Honig, Yuanzhang Xiao </div>
+      <div class="periodical"><em> Proceedings of the ACM on Measurement and Analysis of Computing Systems <strong>(Sigmetrics)</strong>, 2019.</em>
+      </div>
+    <div class="links">
+      <a href="https://core.ac.uk/download/pdf/216301973.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
