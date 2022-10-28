@@ -85,7 +85,7 @@ Outside work, I enjoy spending time with my wife and daughter, playing badminton
   </div>
   <div id="lee2020epsr" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://authors.library.caltech.edu/106994/1/09254167.pdf">Online station assignment for electric vehicle battery swapping</a></div>
-      <div class="author">Zachary Lee, <strong>John Zhen Fu Pang</strong>, Steven Low</div>
+      <div class="author">Pengcheng You, <strong>John Zhen Fu Pang</strong>, Steven Low</div>
       <div class="periodical"><em> IEEE Transactions for Intelligent Transportation Systems <strong>(T-ITS)</strong>, 2020.</em>
       </div>
     <div class="links">
