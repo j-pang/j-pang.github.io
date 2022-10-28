@@ -28,7 +28,7 @@ Outside work, I enjoy spending time with my wife and daughter, playing badminton
 
 ## Teaching/Mentoring
 
-- Capstone Co-supervisor for Jonathan Chia, Yale-NUS College (Supervised with [Asst Prof Michael Choi](https://www.yale-nus.edu.sg/faculty/michael-choi/))
+- Capstone Co-supervisor for Jonathan Chia, Yale-NUS College, AY22-23 (Supervised with [Asst Prof Michael Choi](https://www.yale-nus.edu.sg/faculty/michael-choi/))
 - Lecturer, [40.316 Game Theory](https://esd.sutd.edu.sg/courses/40316-game-theory/) at [Singapore University of Technology and Design](https://www.sutd.edu.sg/), 2022
 
 <h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=mQZqPVAAAAAJ&hl=en&oi=ao" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;"></temp></h2>
