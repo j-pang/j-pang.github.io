@@ -10,7 +10,7 @@ I received my Ph.D. from [Caltech's Computing and Mathematical Sciences Program]
 
 My research lies at the intersection of **optimization**, **control**, and **operations research** -- with a special focus on formulating and designing algorithms that are provably "not too bad" in both the offline and online optimization settings. My research is applied in the area of **power and energy systems**, **networking**, **economics**, and **computer science**.
 
-Outside work, I enjoy spending time with my wife and daughter, playing badminton, and watching chess and soccer. 
+Outside work, I enjoy spending time with my wife Odelia and daughter Eliora, playing badminton, and watching chess. 
 
 <strong style="color:#e74d3c; font-weight:600"> At IHPC, we are looking for researchers (both B.Sc./M.Sc. and Ph.D. graduates) who are interested in applying computing and data science in the area of energy systems. Do drop me an email if you are interested. Strong Ph.D. candidates that are interested may also write to me to arrange for a summer or half-year internship. I recommend Ph.D. candidates who are looking for funding opportunities in Singapore to check out the [SINGA Award](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa) and [ACIS Scholarship](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/a-star-cis-scholarship). </strong>
 
