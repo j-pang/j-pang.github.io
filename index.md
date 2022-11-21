@@ -16,7 +16,7 @@ Outside work, I enjoy spending time with my wife Odelia and daughter Eliora, pla
 
 ## Recent News
 
-- **[Nov. 2022]** Our paper titled "Online Optimization in Power Systems with High Penetration of Renewable Generation: Advances and Prospects" with Asst. Prof. Zhaojian Wang (SJTU) and other co-authors have been accepted into [IEEE/CAA Journal of Automatica Sinica](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570654), (IF:7.847, Citescore: 13.0 - 1/118 in Control and Optimization).
+- **[Nov. 2022]** Our review paper titled "Online Optimization in Power Systems with High Penetration of Renewable Generation: Advances and Prospects" with Asst. Prof. Zhaojian Wang (SJTU) and other co-authors have been accepted into [IEEE/CAA Journal of Automatica Sinica](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570654), (IF:7.847, Citescore: 13.0 - 1/118 in Control and Optimization).
 - **[Oct. 2022]**  Our team at IHPC will be visiting a number of research labs and startups in the U.S., including NREL, Colorado State University, LBNL, UC Berkeley, Stanford, [PowerFlex](https://www.powerflex.com/), Caltech, and [MOEV Inc](https://www.moevinc.com/). 
 - **[Sep. 2022]**  I received a teaching score of 4.8/5.0 for 40.316. Big thanks to my students for their attention through evening classes in their final year. 
 - **[May. 2022]**  I will be co-lecturing [40.316 Game Theory](https://esd.sutd.edu.sg/courses/40316-game-theory/) at [Singapore University of Technology and Design](https://www.sutd.edu.sg/). 
