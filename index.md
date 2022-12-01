@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a research scientist in the Energy Systems Group at [A\*STAR's Institute of High Performance Computing](https://www.a-star.edu.sg/ihpc), where I apply control, learning, and optimization algorithms to study smart grid operations. I recently co-lectured an undergraduate Game Theory course in the [Engineering Systems and Design Pillar at SUTD](https://esd.sutd.edu.sg/) over the summer with [Prof. Lingjie Duan](https://esd.sutd.edu.sg/people/faculty/lingjie-duan). Before starting at IHPC in 2020, I was a Data Scientist at [Schlumberger's Software Technology and Innovation Center at Menlo Park, CA, USA](https://www.slb.com/). 
+I am currently a research scientist and group manager in the Energy Systems Group at [A\*STAR's Institute of High Performance Computing](https://www.a-star.edu.sg/ihpc), where I apply control, learning, and optimization algorithms to study smart grid operations. I recently co-lectured an undergraduate Game Theory course in the [Engineering Systems and Design Pillar at SUTD](https://esd.sutd.edu.sg/) over the summer with [Prof. Lingjie Duan](https://esd.sutd.edu.sg/people/faculty/lingjie-duan). Before starting at IHPC in 2020, I was a Data Scientist at [Schlumberger's Software Technology and Innovation Center at Menlo Park, CA, USA](https://www.slb.com/). 
 
 I received my Ph.D. from [Caltech's Computing and Mathematical Sciences Program](https://www.cms.caltech.edu/) in 2019, where I was supervised by [Prof. Adam Wierman](https://adamwierman.com/) and [Prof. Steven Low](http://netlab.caltech.edu/). At Caltech, I received the [Amori Doctoral Prize in CMS](https://www.cms.caltech.edu/academics/honors) for my dissertation on Online Platforms in Networked Markets. Prior to that, I obtained my Bachelor's Degree in Mathematical Sciences (First Class Honors) from the [Nanyang Technological University's School of Physical and Mathematical Sciences](https://www.ntu.edu.sg/spms) in 2013 under the [Accelerated Bachelor Program](https://www.ntu.edu.sg/cee/current-students/undergraduate/accelerated-bachelor-programme-(abp)). My Ph.D. and B.Sc. studies were funded by [Singapore's National Science Scholarship](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/national-science-scholarship-phd) and the A\*STAR Undergraduate Scholarship.  
 
@@ -16,6 +16,7 @@ Outside work, I enjoy spending time with my wife Odelia and daughter Eliora, pla
 
 ## Recent News
 
+- **[Dec. 2022]** I will be taking over as Capability Group Manager for the Energy Systems group at A\*STAR's Institute of High Performance Computing.
 - **[Nov. 2022]** Our review paper titled "Online Optimization in Power Systems with High Penetration of Renewable Generation: Advances and Prospects" with Asst. Prof. Zhaojian Wang (SJTU) and other co-authors have been accepted into [IEEE/CAA Journal of Automatica Sinica](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570654), (IF:7.847, Citescore: 13.0 - 1/118 in Control and Optimization).
 - **[Oct. 2022]**  Our team at IHPC will be visiting a number of research labs and startups in the U.S., including NREL, Colorado State University, LBNL, UC Berkeley, Stanford, [PowerFlex](https://www.powerflex.com/), Caltech, and [MOEV Inc](https://www.moevinc.com/). 
 - **[Sep. 2022]**  I received a teaching score of 4.8/5.0 for 40.316. Big thanks to my students for their attention through evening classes in their final year. 
@@ -25,7 +26,7 @@ Outside work, I enjoy spending time with my wife Odelia and daughter Eliora, pla
 - **[Feb. 2022]**  I am giving a [talk](https://esd.sutd.edu.sg/news-events/research-seminar-series/john-pang-astar-platforms-in-networked-cournot-competition-access-or-allocation-control/) on "Platforms in Networked Cournot Competition: Access or Allocation Control" at SUTD ESD Research Seminar Series. 
 - **[Jan. 2022]**  Our paper titled ["Transparency and Control in Platforms for Networked Markets"](https://pubsonline.informs.org/doi/abs/10.1287/opre.2021.2244) got accepted into [Operations Research](https://pubsonline.informs.org/journal/opre).
 - **[Jan. 2022]**  I will be moderating a session by [Prof. C&#233;dric Villani](https://www.cedricvillani.org/) at the [Global Young Scientist Summit 2022](https://www.nrf.gov.sg/gyss/home). 
-- **[Dec. 2021]**  I am helping to organize and will emcee the Maritime AI Workshop, co-organized by IHPC and Singapore Maritime Institute (SMI). 
+<!-- - **[Dec. 2021]**  I am helping to organize and will emcee the Maritime AI Workshop, co-organized by IHPC and Singapore Maritime Institute (SMI).  -->
 
 ## Teaching/Mentoring
 
