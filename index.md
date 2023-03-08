@@ -16,6 +16,7 @@ Outside work, I enjoy spending time with my wife Odelia and daughter Eliora, pla
 
 ## Recent News
 
+- **[Mar. 2023]** I will be the Project Investigator (PI) for our new project on charging infrastructure for electrification of the maritime industry in Singapore. This project, funded by both the Singapore Maritime Institute and S&TPPO for 2 years, is code-named MESH, which stands for "Modelling the Electrification of Singapore Harbourcrafts". 
 - **[Dec. 2022]** I will be taking over as Capability Group Manager for the Energy Systems group at A\*STAR's Institute of High Performance Computing.
 - **[Nov. 2022]** Our review paper titled "Online Optimization in Power Systems with High Penetration of Renewable Generation: Advances and Prospects" with Asst. Prof. Zhaojian Wang (SJTU) and other co-authors have been accepted into [IEEE/CAA Journal of Automatica Sinica](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570654), (IF:7.847, Citescore: 13.0 - 1/118 in Control and Optimization).
 - **[Oct. 2022]**  Our team at IHPC will be visiting a number of research labs and startups in the U.S., including NREL, Colorado State University, LBNL, UC Berkeley, Stanford, [PowerFlex](https://www.powerflex.com/), Caltech, and [MOEV Inc](https://www.moevinc.com/). 
@@ -23,9 +24,9 @@ Outside work, I enjoy spending time with my wife Odelia and daughter Eliora, pla
 - **[May. 2022]**  I will be co-lecturing [40.316 Game Theory](https://esd.sutd.edu.sg/courses/40316-game-theory/) at [Singapore University of Technology and Design](https://www.sutd.edu.sg/). 
 - **[Apr. 2022]**  Our Singapore Integrated Transport & Energy Model (SITEM) project won the [Ministry for Trade and Industry Firefly Borderless Silver Award](https://www.tum-create.edu.sg/news/tumcreate-researchers-recognised-contributions-singapores-2040-vision-all-vehicles-run-cleaner).
 - **[Mar. 2022]**  I am helping to organize and will emcee the launch event for A\*STAR's Software and System Engineering Communities of Practice (CoP). 
-- **[Feb. 2022]**  I am giving a [talk](https://esd.sutd.edu.sg/news-events/research-seminar-series/john-pang-astar-platforms-in-networked-cournot-competition-access-or-allocation-control/) on "Platforms in Networked Cournot Competition: Access or Allocation Control" at SUTD ESD Research Seminar Series. 
-- **[Jan. 2022]**  Our paper titled ["Transparency and Control in Platforms for Networked Markets"](https://pubsonline.informs.org/doi/abs/10.1287/opre.2021.2244) got accepted into [Operations Research](https://pubsonline.informs.org/journal/opre).
-- **[Jan. 2022]**  I will be moderating a session by [Prof. C&#233;dric Villani](https://www.cedricvillani.org/) at the [Global Young Scientist Summit 2022](https://www.nrf.gov.sg/gyss/home). 
+<!-- - **[Feb. 2022]**  I am giving a [talk](https://esd.sutd.edu.sg/news-events/research-seminar-series/john-pang-astar-platforms-in-networked-cournot-competition-access-or-allocation-control/) on "Platforms in Networked Cournot Competition: Access or Allocation Control" at SUTD ESD Research Seminar Series.  -->
+<!-- - **[Jan. 2022]**  Our paper titled ["Transparency and Control in Platforms for Networked Markets"](https://pubsonline.informs.org/doi/abs/10.1287/opre.2021.2244) got accepted into [Operations Research](https://pubsonline.informs.org/journal/opre).
+- **[Jan. 2022]**  I will be moderating a session by [Prof. C&#233;dric Villani](https://www.cedricvillani.org/) at the [Global Young Scientist Summit 2022](https://www.nrf.gov.sg/gyss/home).  -->
 <!-- - **[Dec. 2021]**  I am helping to organize and will emcee the Maritime AI Workshop, co-organized by IHPC and Singapore Maritime Institute (SMI).  -->
 
 ## Teaching/Mentoring
