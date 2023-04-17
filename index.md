@@ -139,6 +139,11 @@ The Energy Systems Group at IHPC (housed under the Systems Science Department) a
 </div>
 </li>
   
+
+## Recent Courses
+
+- **[Mar. 2023]** Attended the 3rd Systems Engineering Foundation Course organised by S&TPPO. 
+  
 ## Older News
   
 - **[Apr. 2022]**  Our Singapore Integrated Transport & Energy Model (SITEM) project won the [Ministry for Trade and Industry Firefly Borderless Silver Award](https://www.tum-create.edu.sg/news/tumcreate-researchers-recognised-contributions-singapores-2040-vision-all-vehicles-run-cleaner).
