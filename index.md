@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a research scientist in the Energy Systems Group at [A\*STAR's Institute of High Performance Computing](https://www.a-star.edu.sg/ihpc), where I apply control, learning, and optimization algorithms to study smart grid operations. I also manage the Energy Systems group, and am the principal investigator for the "Modelling the Electrification of Singapore's Harbourcrafts" project, which is funded by the Singapore Maritime Institute and the Prime Minister's Office's Science and Technology Policy and Plans Office (S&TPPO). 
+I am a research scientist in the Energy Systems Group at [A\*STAR's Institute of High Performance Computing](https://www.a-star.edu.sg/ihpc), where I apply control, learning, and optimization algorithms to study smart grid operations. I also manage the Energy Systems group, and am the Principal Investigator (PI) for the "Modelling the Electrification of Singapore's Harbourcrafts (MESH)" project, which is funded by the Singapore Maritime Institute and the Prime Minister's Office's Science and Technology Policy and Plans Office (S&TPPO). 
 
 I co-lectured an undergraduate Game Theory course as an adjunct in the [Engineering Systems and Design Pillar at SUTD](https://esd.sutd.edu.sg/) last summer with [Prof. Lingjie Duan](https://esd.sutd.edu.sg/people/faculty/lingjie-duan). Before starting at IHPC in 2020, I was a Data Scientist at [Schlumberger's Software Technology and Innovation Center at Menlo Park, CA, USA](https://www.slb.com/). 
 
