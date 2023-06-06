@@ -30,7 +30,7 @@ The Energy Systems Group at IHPC (housed under the Systems Science Department) a
 - **[Nov. 2022]** Our review paper titled "Online Optimization in Power Systems with High Penetration of Renewable Generation: Advances and Prospects" with Asst. Prof. Zhaojian Wang (SJTU) and other co-authors have been accepted into [IEEE/CAA Journal of Automatica Sinica](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570654), (IF:7.847, Citescore: 13.0 - 1/118 in Control and Optimization).
 - **[Oct. 2022]**  Our team at IHPC will be visiting a number of research labs and startups in the U.S., including NREL, Colorado State University, LBNL, UC Berkeley, Stanford, [PowerFlex](https://www.powerflex.com/), Caltech, and [MOEV Inc](https://www.moevinc.com/). 
 - **[Sep. 2022]**  I received a teaching score of 4.8/5.0 for 40.316. Big thanks to my students for their attention through evening classes in their final year. 
-- **[May. 2022]**  I will be co-lecturing [40.316 Game Theory](https://esd.sutd.edu.sg/courses/40316-game-theory/) at [Singapore University of Technology and Design](https://www.sutd.edu.sg/). 
+
 
 
 
@@ -149,7 +149,8 @@ The Energy Systems Group at IHPC (housed under the Systems Science Department) a
 - **[Mar. 2023]** Attended the 3rd Systems Engineering Foundation Course organised by S&TPPO. 
   
 ## Older News
-  
+ 
+- **[May. 2022]**  I will be co-lecturing [40.316 Game Theory](https://esd.sutd.edu.sg/courses/40316-game-theory/) at [Singapore University of Technology and Design](https://www.sutd.edu.sg/). 
 - **[Apr. 2022]**  Our Singapore Integrated Transport & Energy Model (SITEM) project won the [Ministry for Trade and Industry Firefly Borderless Silver Award](https://www.tum-create.edu.sg/news/tumcreate-researchers-recognised-contributions-singapores-2040-vision-all-vehicles-run-cleaner).
 - **[Mar. 2022]**  I am helping to organize and will emcee the launch event for A\*STAR's Software and System Engineering Communities of Practice (CoP). 
 - **[Feb. 2022]**  I am giving a [talk](https://esd.sutd.edu.sg/news-events/research-seminar-series/john-pang-astar-platforms-in-networked-cournot-competition-access-or-allocation-control/) on "Platforms in Networked Cournot Competition: Access or Allocation Control" at SUTD ESD Research Seminar Series. 
