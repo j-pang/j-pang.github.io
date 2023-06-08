@@ -143,6 +143,7 @@ The Energy Systems Group at IHPC (housed under the Systems Science Department) a
 </div>
 </li>
   
+    <br>
 
 ## Recent Courses
 
