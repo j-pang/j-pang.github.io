@@ -22,7 +22,6 @@ The Energy Systems Group at IHPC (housed under the Systems Science Department) a
 
 ## Recent News
 
-- **[Jul. 2023]**
 - **[Jul. 2023]** The SITEM project contributed towards the One Public Service Award, part of the Public Service Transformation Awards, handed out during 2023's Public Service Week. See more in this [A*STAR LinkedIn Post](https://www.linkedin.com/posts/astarsg_facesofastar-psw2023-activity-7082282023930757120-NAEO?utm_source=share&utm_medium=member_desktop). 
 - **[Jun. 2023]** The Energy Systems Group's GPAT project (which stands for Grid Planning and Analysis Tool) has been approved for funding via the [Translational Research and Development for Application to Smart Nation (TRANS) Grant](https://www.nrf.gov.sg/rie-ecosystem/ecosystem-wide-fis/snde-fis/), which funds translational R&D and technology or process innovations in areas that are aligned to the emerging and focused tech areas (Strategic National Projects (SNPs) and Centres of Excellence (CentEx)). This project is due to commence August 2023.
 - **[Jun. 2023]** I will be speaking on the Sustainability Panel "Can AI Shape the Path to a More Sustainable Future?" at [TechXLR8 Asia](https://asiatechxsg.com/techxlr8asia/) on 9th June 2023! 
