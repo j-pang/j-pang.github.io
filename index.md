@@ -6,11 +6,11 @@ layout: homepage
 
 I am a Senior Research Scientist in the Energy Systems Group at [A\*STAR's Institute of High Performance Computing](https://www.a-star.edu.sg/ihpc), where I apply control, learning, and optimization algorithms to study smart grid operations. I also manage the Energy Systems group, and am the Principal Investigator (PI) for the "Modelling the Electrification of Singapore's Harbourcrafts (MESH)" project, which is funded by the Singapore Maritime Institute and the Prime Minister's Office's Science and Technology Policy and Plans Office (S&TPPO). 
 
-I co-lectured an undergraduate Game Theory course as an adjunct in the [Engineering Systems and Design Pillar at SUTD](https://esd.sutd.edu.sg/) last summer with [Prof. Lingjie Duan](https://esd.sutd.edu.sg/people/faculty/lingjie-duan). Before starting at IHPC in 2020, I was a Data Scientist at [Schlumberger's Software Technology and Innovation Center at Menlo Park, CA, USA](https://www.slb.com/), where I was selected to present at SLB's Reservoir Symposium and was later also awarded the Initiator Award at SLB's FIZZ Symposium. 
+Before starting at IHPC in 2020, I was a Data Scientist at [Schlumberger's Software Technology and Innovation Center at Menlo Park, CA, USA](https://www.slb.com/), where I was selected to present at SLB's Reservoir Symposium and was later also awarded the Initiator Award at SLB's FIZZ Symposium. I also did two internships at STIC in the prior summers before joining full-time. I recently co-lectured an undergraduate Game Theory course as an adjunct lecturer in the [Engineering Systems and Design Pillar at SUTD](https://esd.sutd.edu.sg/) with [Prof. Lingjie Duan](https://esd.sutd.edu.sg/people/faculty/lingjie-duan). 
 
 I received my Ph.D. from [Caltech's Computing and Mathematical Sciences Program](https://www.cms.caltech.edu/) in 2019, where I was supervised by [Prof. Adam Wierman](https://adamwierman.com/) and [Prof. Steven Low](http://netlab.caltech.edu/). At Caltech, I received the [Amori Doctoral Prize in CMS](https://www.cms.caltech.edu/academics/honors) for my dissertation on Online Platforms in Networked Markets. Prior to that, I obtained my Bachelor's Degree in Mathematical Sciences (First Class Honors) from the [Nanyang Technological University's School of Physical and Mathematical Sciences](https://www.ntu.edu.sg/spms) in 2013 under the [Accelerated Bachelor Program](https://www.ntu.edu.sg/cee/current-students/undergraduate/accelerated-bachelor-programme-(abp)). My Ph.D. and B.Sc. studies were funded by [Singapore's National Science Scholarship](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/national-science-scholarship-phd) and the A\*STAR Undergraduate Scholarship.  
 
-My research lies at the intersection of **optimization**, **control**, and **operations research** -- with a special focus on formulating and designing algorithms that are provably "not too bad" in both the offline and online optimization settings. My research is applied in the area of **power and energy systems**, **networking**, **economics**, and **computer science**.
+My research lies at the intersection of **optimization**, **control**, and **operations research** -- with a focus on formulating and designing algorithms that are provably "not too bad" in both the offline and online optimization settings. My research is applied in the area of **power and energy systems**, **networking**, **economics**, and **computer science**.
 
 Outside work, I enjoy spending time with my wife Odelia and daughter Eliora, playing badminton, and watching chess. 
 
@@ -31,15 +31,16 @@ The Energy Systems Group at IHPC (housed under the Systems Science Department) a
 - **[Dec. 2022]** I will be taking over as Capability Group Manager for the Energy Systems group at A\*STAR's Institute of High Performance Computing. I have added a description of the Energy Systems group above. 
 - **[Nov. 2022]** Our review paper titled "Online Optimization in Power Systems with High Penetration of Renewable Generation: Advances and Prospects" with Asst. Prof. Zhaojian Wang (SJTU) and other co-authors have been accepted into [IEEE/CAA Journal of Automatica Sinica](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570654), (IF:7.847, Citescore: 13.0 - 1/118 in Control and Optimization).
 - **[Oct. 2022]**  Our team at IHPC will be visiting a number of research labs and startups in the U.S., including NREL, Colorado State University, LBNL, UC Berkeley, Stanford, [PowerFlex](https://www.powerflex.com/), Caltech, and [MOEV Inc](https://www.moevinc.com/). 
-- **[Sep. 2022]**  I received a teaching score of 4.8/5.0 for 40.316. Big thanks to my students for their attention through evening classes in their final year. 
 
 
 ## Recent Courses
 
+- **[]** I will be attending the 
 - **[Mar. 2023]** Attended the 3rd Systems Engineering Foundation Course organised by S&TPPO. 
   
 ## Older News
- 
+
+- **[Sep. 2022]**  I received a teaching score of 4.8/5.0 for 40.316. Big thanks to my students for their attention through evening classes in their final year. 
 - **[May. 2022]**  I will be co-lecturing [40.316 Game Theory](https://esd.sutd.edu.sg/courses/40316-game-theory/) at [Singapore University of Technology and Design](https://www.sutd.edu.sg/). 
 - **[Apr. 2022]**  Our Singapore Integrated Transport & Energy Model (SITEM) project won the [Ministry for Trade and Industry Firefly Borderless Silver Award](https://www.tum-create.edu.sg/news/tumcreate-researchers-recognised-contributions-singapores-2040-vision-all-vehicles-run-cleaner).
 - **[Mar. 2022]**  I am helping to organize and will emcee the launch event for A\*STAR's Software and System Engineering Communities of Practice (CoP). 
