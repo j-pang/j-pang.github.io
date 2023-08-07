@@ -35,7 +35,8 @@ The Energy Systems Group at IHPC (housed under the Systems Science Department) a
 
 ## Recent Courses
 
-- **[]** I will be attending the 
+- **[Sep. 2023]** I will be attending the A*STAR's Managerial Development Programme from 6th to 8th September 2023.
+- **[Sep. 2023]** I will be attending a one-day course on Power BI on 5th September 2023. 
 - **[Mar. 2023]** Attended the 3rd Systems Engineering Foundation Course organised by S&TPPO. 
   
 ## Older News
