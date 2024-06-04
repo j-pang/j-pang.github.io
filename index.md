@@ -24,8 +24,8 @@ The Energy Systems Group at IHPC (housed under the Systems Science Department) a
 
 ## Recent News
 
-- **[Apr. 2024]** Invited to visit the Singapore District Cooling setup at Marina Bay as part of the SGTechTeam. 
-- **[Apr. 2024]** Invited to observe SCDF's EV Burn Trial. 
+- **[Apr. 2024]** Invited to visit the Singapore District Cooling setup at Marina Bay as part of the SGTechTeam. Interesting to learn of how SDC uses district cooling and thermal storage to participate in demand response (DR) in Singapore. 
+- **[Apr. 2024]** Invited to observe SCDF's EV Burn Trial. A registered Hyundai Ioniq was burned with two main purposes - to find out the efficacy of fire blanket to contain the fumes, and the ability to reduce temperature via various measures. 
 - **[Apr. 2024]** Invited to witness the Pilot Launch Trial of the first public e-Harbourcraft charging at Marina South Pier. 
 - **[Mar. 2024]** Had the privilege represent S&TPPO to attend Airspace World 2024 in Geneva, Switzerland.
 - **[Mar. 2024]** Attended IHPC's Leadership Advance where we had discussions on how to best align IHPC's directions with A\*STAR and the larger research ecosystem. 
