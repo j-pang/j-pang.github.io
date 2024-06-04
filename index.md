@@ -24,7 +24,7 @@ The Energy Systems Group at IHPC (housed under the Systems Science Department) a
 
 ## Recent News
 
-- **[Mar. 2024]** 
+- **[Mar. 2024]** Had the privilege to attend Airspace World 2024 in Geneva, Switzerland. 
 - **[Feb. 2024]** Phase 2 of SITEM begins! IHPC will be undertaking an extension of the SITEM study to include the study of heavy goods vehicles, and emerging technologies such as vehicle-to-grid (V2G). 
 - **[Jan. 2024]** I will be lecturing [40.316 Game Theory](https://esd.sutd.edu.sg/courses/40316-game-theory/) at [Singapore University of Technology and Design](https://www.sutd.edu.sg/) as Adjunct Assistant Professor.
 - **[Jan. 2024]** Funding for the second phase of the Centre for Energy and Emissions Modelling (CE2M) has been approved. The Energy Systems group is the key contributor in one work package to help improve long term power sector decarbonisation planning. CE2M was previously featured on this [Energy Market Authority (EMA) Media Release](https://www.spgroup.com.sg/about-us/media-resources/news-and-media-releases/Leveraging-Digital-Solutions-to-Future-Proof-Singapore-s-Energy-Grid). The Media Release also mentions one of the TRANS Grant projects we are working with EMA to perform the next stage of translational research and development in order to deploy the developed distribution network twin in SITEM into an end-user software solution usable by EMA by 2025. This software solution will help to assess the impact of significant demand changes expected in the distribution grid as energy sector decarbonises.
